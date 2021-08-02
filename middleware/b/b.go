@@ -1,7 +1,7 @@
-package a
+package b
 
 import "github.com/shenqidebaozi/testmod"
 
-func a()  {
+func b()  {
     app.A();
 }
